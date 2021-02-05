@@ -1,0 +1,93 @@
+body {
+  margin: 0px;
+  background-color: white;
+  color: black;
+  font-family: Times;
+  font-size: 14px
+  font-weight: lighter;
+ }
+p{
+  font-weight: lighter;
+}
+li {
+  display: inline;
+  margin: 130px;
+  font-size: 32px;
+}
+#Logo{
+  font-family: 'Satisfy', cursive;
+  margin-left: 0px;
+  font-size: 46px;
+}
+#header { 
+background-color: white;
+padding-top: 15px;
+padding-bottom: 15px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3) }
+
+#banner{
+  background-image: url("image/IMG_5371.jpg");
+  height: 600px;
+  background-size: 100%
+}
+ul {
+margin: 0px}
+
+#luc{
+   color: white;
+   font-family: Times;
+   font-weight: 700;
+   font-size: 40px;
+   text-align: center;
+   padding-top: 300px;
+}
+.article{
+  display: inline-block;
+  width: 350px;
+  text-align: center;
+  padding-top: 20px;
+  margin: 63px;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.article:hover {
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+img{
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+}
+h2{
+   color: black;
+   font-family: Times;
+   font-weight: 700;
+   font-size: 24px;
+}
+h3{
+   color: black;
+   font-family: Times;
+   font-weight: 700;
+   font-size: 24px;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+a {
+    color: black;  
+}
+
+
+#Instagram-button{
+	color: #cd0077;
+}
+.lili {
+	text-align: center;
+}
